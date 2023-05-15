@@ -1,0 +1,22 @@
+C:\Users\nastya\source\repos\LW4\LW4\bin\Debug\LW4.exe.config
+C:\Users\nastya\source\repos\LW4\LW4\bin\Debug\LW4.exe
+C:\Users\nastya\source\repos\LW4\LW4\bin\Debug\LW4.pdb
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.csproj.AssemblyReference.cache
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.Form1.resources
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.Properties.Resources.resources
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.csproj.GenerateResource.cache
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.csproj.CoreCompileInputs.cache
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.exe
+C:\Users\nastya\source\repos\LW4\LW4\obj\Debug\LW4.pdb
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\bin\Debug\LW4.exe.config
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\bin\Debug\LW4.exe
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\bin\Debug\LW4.pdb
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.Form1.resources
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.Properties.Resources.resources
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.csproj.GenerateResource.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.exe
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\4лаба\LW4\LW4\obj\Debug\LW4.pdb
