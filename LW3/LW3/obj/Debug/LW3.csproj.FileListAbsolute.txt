@@ -1,0 +1,22 @@
+C:\Users\nastya\source\repos\LW3\LW3\bin\Debug\LW3.exe.config
+C:\Users\nastya\source\repos\LW3\LW3\bin\Debug\LW3.exe
+C:\Users\nastya\source\repos\LW3\LW3\bin\Debug\LW3.pdb
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.csproj.AssemblyReference.cache
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.Form1.resources
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.Properties.Resources.resources
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.csproj.GenerateResource.cache
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.csproj.CoreCompileInputs.cache
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.exe
+C:\Users\nastya\source\repos\LW3\LW3\obj\Debug\LW3.pdb
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\bin\Debug\LW3.exe.config
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\bin\Debug\LW3.exe
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\bin\Debug\LW3.pdb
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.Form1.resources
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.Properties.Resources.resources
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.csproj.GenerateResource.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.exe
+C:\Users\nastya\Desktop\Лабы отдельно\СЦОИ\3лаба\LW3\LW3\obj\Debug\LW3.pdb
